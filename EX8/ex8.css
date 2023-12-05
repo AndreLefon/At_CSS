@@ -1,0 +1,11 @@
+.coluna1 {
+    width: 30%;
+    float: left;
+    background-color: lightblue;
+}
+
+.coluna2 {
+    width: 70%;
+    float: left;
+    background-color: lightgreen;
+}
